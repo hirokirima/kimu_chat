@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1058312411431",
+    "project_id": "kimchat",
+    "storage_bucket": "kimchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058312411431:android:5903831a0af6339f5db102",
+        "android_client_info": {
+          "package_name": "com.example.kimu_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058312411431-lri1606qhi1fpc2oh36du4q1p5hubs37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh7A5UGSLlYBHvPZiJllTgGBbvkNcqF2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058312411431-lri1606qhi1fpc2oh36du4q1p5hubs37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058312411431-89jd2t8jl54c2f5qo80mukp7h92ibc62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kimuChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
